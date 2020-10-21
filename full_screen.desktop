@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=chromium-browser --start-fullscreen --app=http://localhost:4000
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/latona/atlas/UI/desktop_icon.png
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=true
+Actions=NewWindow;Incognito;TempProfile;
+X-AppInstall-Package=chromium-browser
+Name[en_US]=AIビジョンシステム.desktop

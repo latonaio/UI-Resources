@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=chromium-browser --app=http://localhost:30040 --window-size=1920,1080 --window-pos=0,0
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/toyota/aqua/UI/desktop_icon.png
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=true
+Actions=NewWindow;Incognito;TempProfile;
+X-AppInstall-Package=chromium-browser
+Name[en_US]=スキーバ解析システム.desktop
